@@ -1,4 +1,4 @@
-# AI Wedding Planner MVP
+# AI Wedding Planner Prototype
 
 ## Project Structure
 - `frontend/`: Next.js 14 Application (React)
